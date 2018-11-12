@@ -5,7 +5,7 @@ ___________
 
 This calculator can perform addition, substraction, multiplication, division and modulo between two numbers.
 
-It takes the following user input - 
+It takes the following user inputs - 
 
 First number:
 Operator [ +  -  *  /  mod ]:
