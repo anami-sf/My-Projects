@@ -8,9 +8,8 @@ Each player has 3 attributes: name, power, health
 2. Define class methods
     - .hit
     - .is_alive
-    - .
+    - .status
     
-    -.fight
 3. Deine .fight method
 4. Instantiate the class / create objects (players)
 5. Play the game
